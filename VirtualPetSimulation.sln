@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualPetSimulation", "VirtualPetSimulation.csproj", "{A860C84D-BDA4-42F7-9C82-EF187DB79799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPetSimulation.Tests", "..\VirtualPetSimulation.Tests\VirtualPetSimulation.Tests.csproj", "{BFF3EAE3-CC99-422E-9BB8-6166AF3D05B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A860C84D-BDA4-42F7-9C82-EF187DB79799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A860C84D-BDA4-42F7-9C82-EF187DB79799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A860C84D-BDA4-42F7-9C82-EF187DB79799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A860C84D-BDA4-42F7-9C82-EF187DB79799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF3EAE3-CC99-422E-9BB8-6166AF3D05B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF3EAE3-CC99-422E-9BB8-6166AF3D05B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF3EAE3-CC99-422E-9BB8-6166AF3D05B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF3EAE3-CC99-422E-9BB8-6166AF3D05B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308D1E3F-C4BC-4BBD-AFA5-C4D1D18008CC}
+	EndGlobalSection
+EndGlobal
